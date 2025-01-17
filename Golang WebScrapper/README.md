@@ -9,3 +9,6 @@ go run main.go
 go mod download
 
 Server now accepting request at localhost:8080
+
+# Scraping for news demanded from request curl "http://localhost:8080/api/news"
+
