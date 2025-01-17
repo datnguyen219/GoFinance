@@ -16,5 +16,5 @@ Server now accepting request at localhost:8080
 
 # Scrape results returned by scraper
 
-![Logo](./images/Scrape_result.png)
+![Logo](./Scrape_result.png)
 
