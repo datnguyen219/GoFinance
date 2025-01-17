@@ -12,3 +12,9 @@ Server now accepting request at localhost:8080
 
 # Scraping for news demanded from request curl "http://localhost:8080/api/news"
 
+![Scraping](./Scraping.png)
+
+# Scrape results returned by scraper
+
+![Logo](./images/Scrape_result.png)
+
